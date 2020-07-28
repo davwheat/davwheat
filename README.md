@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **davwheat/davwheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,8 +9,11 @@ I'm **David Wheatley**, a 16 year old all-round developer from West Sussex, Engl
 I enjoy all sorts of programming, from mobile apps to WinForms, to websites, but I tend to focus more heavily on web development.
 
 You can check out some of my projects in action:
+
 - [giffgaff community help site](https://giffgaff.davwheat.dev)
 - [personal website](https://davwheat.dev/)
+
+## Info
 
 - 🔭 I’m currently working on a [Flutter app which allows you to track your journeys via GPS and view interesting stats about them](https://github.com/davwheat/my-trails-app)
 - 🌱 I’m currently learning Flutter and Dart (at least trying to!)
