@@ -8,10 +8,15 @@ I'm **David Wheatley**, a 16 year old all-round developer from West Sussex, Engl
 
 I enjoy all sorts of programming, from mobile apps to WinForms to GTA V multiplayer plugins, but I tend to focus more heavily on web development.
 
-You can check out some of my projects in action:
+### You can check out some of my projects in action
 
 - [giffgaff community help site](https://giffgaff.davwheat.dev)
 - [personal website](https://davwheat.dev/)
+- [giffgaff status](https://giffgaffstatus.com/)
+
+### ... or just take a look at some cool repos
+
+- [giffgaff rich presence](https://github.com/davwheat/giffgaff-rich-presence) - show your giffgaff SIM usage in Discord
 
 ## Info
 
