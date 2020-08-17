@@ -10,10 +10,10 @@ I enjoy all sorts of programming, from mobile apps to WinForms to GTA V multipla
 
 ### You can check out some of my projects in action
 
-- [giffgaff community help site](https://giffgaff.davwheat.dev)
-- [personal website](https://davwheat.dev/)
-- [giffgaff status](https://giffgaffstatus.com/)
-- [UK railway dot matrix emulator](https://ukdotmatrix.web.app/)
+- [giffgaff community help site](https://giffgaff.davwheat.dev) ([repo](https://github.com/davwheat/giffgaff-help-site))
+- [personal website](https://davwheat.dev/) ([repo](https://github.com/davwheat/personal-portfolio))
+- [giffgaff status](https://giffgaffstatus.com/) ([repo](https://github.com/davwheat/giffgaff-status))
+- [UK railway dot matrix emulator](https://ukdotmatrix.web.app/) ([repo](https://github.com/davwheat/uk-dot-matrix))
 
 ### ... or just take a look at some cool repos
 
