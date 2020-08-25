@@ -21,7 +21,7 @@ I enjoy all sorts of programming, from mobile apps to WinForms to GTA V multipla
 
 ## Info
 
-- 🔭 I’m currently working on a [Flutter app which allows you to track your journeys via GPS and view interesting stats about them](https://github.com/davwheat/my-trails-app)
+- 🔭 I’m currently working on a [aircraft livery manager for Microsoft Flight Simulator](https://github.com/MSFS-Mega-Pack/MSFS2020-livery-manager)
 - 🌱 I’m currently learning Flutter and Dart (at least trying to!)
 - 🤔 I’m looking for help with PHP (specifically Flarum/Laravel related)
 - 💬 Ask me about my previous projects
