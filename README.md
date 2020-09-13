@@ -18,6 +18,7 @@ I enjoy all sorts of programming, from mobile apps to WinForms to GTA V multipla
 ### ... or just take a look at some cool repos
 
 - [giffgaff rich presence](https://github.com/davwheat/giffgaff-rich-presence) - show your giffgaff SIM usage in Discord
+- [Microsoft Flight Simulator Livery Megapack Manager](https://github.com/MSFS-Mega-Pack/MSFS2020-livery-manager/)
 
 ## Info
 
