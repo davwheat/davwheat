@@ -29,3 +29,9 @@ I enjoy all sorts of programming, from mobile apps to WinForms to GTA V multipla
 - 📫 How to reach me: [hi@davwheat.dev](mailto:hi@davwheat.dev)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started learning to code at about 11 after my brother started a degree in Computer Games Design. Now I know more than him.
+
+----
+
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=davwheat)
+</p>
