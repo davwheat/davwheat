@@ -33,5 +33,5 @@ I enjoy all sorts of programming, from mobile apps to WinForms to GTA V multipla
 ----
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=davwheat)
+  <img src="https://github-readme-stats.vercel.app/api?username=davwheat">
 </p>
