@@ -8,6 +8,12 @@ I'm **David Wheatley**, a 16 year old all-round developer from West Sussex, Engl
 
 I enjoy all sorts of programming, from mobile apps to WinForms to GTA V multiplayer plugins, but I tend to focus more heavily on web development.
 
+### Historical COVID-19 briefings
+
+I'm working on a full history of COVID-19 in the UK, including all England government briefings, a timeline of events, and more.
+
+[Check it out](https://github.com/davwheat/uk-covid-briefings)
+
 ### You can check out some of my projects in action
 
 - [giffgaff community help site](https://giffgaff.davwheat.dev) ([repo](https://github.com/davwheat/giffgaff-help-site))
