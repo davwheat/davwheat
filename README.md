@@ -4,7 +4,7 @@
 **davwheat/davwheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm **David Wheatley**, a 16 year old all-round developer from West Sussex, England.
+I'm **David Wheatley**, a 17 year old all-round developer from West Sussex, England.
 
 I enjoy all sorts of programming, from mobile apps to WinForms to GTA V multiplayer plugins, but I tend to focus more heavily on web development.
 
