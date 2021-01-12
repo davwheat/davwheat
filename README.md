@@ -19,7 +19,7 @@ I'm working on a full history of COVID-19 in the UK, including all England gover
 - [giffgaff community help site](https://giffgaff.davwheat.dev) ([repo](https://github.com/davwheat/giffgaff-help-site))
 - [personal website](https://davwheat.dev/) ([repo](https://github.com/davwheat/personal-portfolio))
 - [giffgaff status](https://giffgaffstatus.com/) ([repo](https://github.com/davwheat/giffgaff-status))
-- [UK railway dot matrix emulator](https://ukdotmatrix.web.app/) ([repo](https://github.com/davwheat/uk-dot-matrix))
+- [UK railway dot matrix emulator](https://raildotmatrix.davwheat.dev/) ([repo](https://github.com/davwheat/uk-dot-matrix))
 
 ### ... or just take a look at some cool repos
 
