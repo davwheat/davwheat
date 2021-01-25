@@ -39,5 +39,5 @@ I'm working on a full history of COVID-19 in the UK, including all England gover
 ----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davwheat">
+  <img src="https://github-readme-stats.vercel.app/api?username=davwheat&count_private=true">
 </p>
