@@ -20,6 +20,8 @@ I'm working on a full history of COVID-19 in the UK, including all England gover
 - [personal website](https://davwheat.dev/) ([repo](https://github.com/davwheat/personal-portfolio))
 - [giffgaff status](https://giffgaffstatus.com/) ([repo](https://github.com/davwheat/giffgaff-status))
 - [UK railway dot matrix emulator](https://raildotmatrix.davwheat.dev/) ([repo](https://github.com/davwheat/uk-dot-matrix))
+- [World Cup of Train Operators](https://toccup.davwheat.dev/) ([repo](https://github.com/davwheat/world-cup-of-tocs))
+- [giffgaff app for Wear OS](https://play.google.com/store/apps/details?id=dev.davwheat.giffgaff.wearable) ([repo](https://github.com/davwheat/giffgaff-for-wear-os))
 
 ### ... or just take a look at some cool repos
 
@@ -29,7 +31,7 @@ I'm working on a full history of COVID-19 in the UK, including all England gover
 ## Info
 
 - 🔭 I’m currently working on a [aircraft livery manager for Microsoft Flight Simulator](https://github.com/MSFS-Mega-Pack/MSFS2020-livery-manager)
-- 🌱 I’m currently learning Flutter and Dart (at least trying to!)
+- 🌱 I’m currently learning Flarum front-end
 - 🤔 I’m looking for help with PHP (specifically Flarum/Laravel related)
 - 💬 Ask me about my previous projects
 - 📫 How to reach me: [hi@davwheat.dev](mailto:hi@davwheat.dev)
