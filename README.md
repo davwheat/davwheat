@@ -4,7 +4,7 @@
 **davwheat/davwheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm **David Wheatley**, a 17 year old web developer from West Sussex, England. I'm a member of @FriendsOfFlarum and a trainee core developer for @Flarum.
+I'm **David Wheatley**, a 17-year-old web developer from West Sussex, England. I'm a member of @FriendsOfFlarum and a trainee core developer for @Flarum.
 
 > My most recent adventures have been [creating Flarum extensions](https://packagist.org/packages/davwheat/) for the Open Source community.
 
