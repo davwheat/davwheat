@@ -8,9 +8,14 @@ I'm **David Wheatley**, a 17-year-old web developer from West Sussex, England. I
 
 > My most recent adventures have been [creating Flarum extensions](https://packagist.org/packages/davwheat/) for the Open Source community.
 
+**[Check out my personal site](https://davwheat.dev/)**
+
+---
+
 ### You can check out some of my projects in action
 
 - [personal website](https://davwheat.dev/) ([repo](https://github.com/davwheat/personal-portfolio))
+- [Sky+ box on the web](https://sky-epg.davwheat.dev/) ([repo](https://github.com/davwheat/sky-plus-web-simulator))
 - [UK railway dot matrix emulator](https://raildotmatrix.davwheat.dev/) ([repo](https://github.com/davwheat/uk-dot-matrix))
 - [World Cup of Train Operators](https://toccup.davwheat.dev/) ([repo](https://github.com/davwheat/world-cup-of-tocs))
 - [giffgaff community help site](https://giffgaff.davwheat.dev) ([repo](https://github.com/davwheat/giffgaff-help-site))
@@ -22,15 +27,9 @@ I'm **David Wheatley**, a 17-year-old web developer from West Sussex, England. I
 - [giffgaff rich presence](https://github.com/davwheat/giffgaff-rich-presence) - show your giffgaff SIM usage in Discord
 - [Microsoft Flight Simulator Livery Megapack Manager](https://github.com/MSFS-Mega-Pack/MSFS2020-livery-manager/)
 
-### Historical COVID-19 briefings
-
-I'm working on a full history of COVID-19 in the UK, including all England government briefings, a timeline of events, and more.
-
-[Check it out](https://github.com/davwheat/uk-covid-briefings)
-
 ## Info
 
-- 🔭 I’m currently working on a [aircraft livery manager for Microsoft Flight Simulator](https://github.com/MSFS-Mega-Pack/MSFS2020-livery-manager)
+- 🔭 I’m currently working on too many projects at once
 - 🌱 I’m currently learning Flarum front-end
 - 🤔 I’m looking for help with PHP (specifically Flarum/Laravel related)
 - 💬 Ask me about my previous projects
