@@ -4,9 +4,7 @@
 **davwheat/davwheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm **David Wheatley**, a 17-year-old web developer from West Sussex, England. I'm a member of @FriendsOfFlarum and a trainee core developer for @Flarum.
-
-> My most recent adventures have been [creating Flarum extensions](https://packagist.org/packages/davwheat/) for the Open Source community.
+I'm **David Wheatley**, a 17-year-old web developer from West Sussex, England. I'm a core developer at [@Flarum](https://github.com/flarum) and a member of @FriendsOfFlarum.
 
 **[Check out my personal site](https://davwheat.dev/)**
 
@@ -31,17 +29,17 @@ I'm **David Wheatley**, a 17-year-old web developer from West Sussex, England. I
 
 - 🔭 I’m currently working on too many projects at once
 - 🌱 I’m currently learning Flarum front-end
-- 🤔 I’m looking for help with PHP (specifically Flarum/Laravel related)
+- 🤔 I’m looking for help with PHP (specifically Laravel related)
 - 💬 Ask me about my previous projects
 - 📫 How to reach me: [hi@davwheat.dev](mailto:hi@davwheat.dev)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I started learning to code at about 10-11 after my brother started a degree in Computer Games Design. Now I know more than him.
+- ⚡ Fun fact: I started learning to code at about 11 after my brother started a degree in Computer Games Design. Now I know more than him. 😅
 
 ----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davwheat&count_private=true&theme=radical&show_icons=true">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davwheat&layout=compact">
 </p>
 
