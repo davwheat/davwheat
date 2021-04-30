@@ -38,8 +38,9 @@ I'm **David Wheatley**, a 17-year-old web developer from West Sussex, England. I
 ----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davwheat&count_private=true&theme=radical&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=davwheat&count_private=true&theme=dark&show_icons=true">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davwheat&layout=compact">
+  <!-- I have NO CLUE why 'Smalltalk' is showing as ~90% of my code language... -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davwheat&layout=compact&hide=smalltalk&langs_count=6">
 </p>
 
