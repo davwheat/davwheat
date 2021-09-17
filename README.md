@@ -12,11 +12,8 @@ I'm **David Wheatley**, a 17-year-old student and web developer from West Sussex
 
 ### You can check out some of my projects in action
 
-- [personal website](https://davwheat.dev/) ([repo](https://github.com/davwheat/personal-portfolio))
 - [Sky+ box on the web](https://sky-epg.davwheat.dev/) ([repo](https://github.com/davwheat/sky-plus-web-simulator))
 - [UK railway dot matrix emulator](https://raildotmatrix.davwheat.dev/) ([repo](https://github.com/davwheat/uk-dot-matrix))
-- [World Cup of Train Operators](https://toccup.davwheat.dev/) ([repo](https://github.com/davwheat/world-cup-of-tocs))
-- [giffgaff community help site](https://giffgaff.davwheat.dev) ([repo](https://github.com/davwheat/giffgaff-help-site))
 - [giffgaff status](https://giffgaffstatus.com/) ([repo](https://github.com/davwheat/giffgaff-status))
 - [giffgaff app for Wear OS](https://play.google.com/store/apps/details?id=dev.davwheat.giffgaff.wearable) ([repo](https://github.com/davwheat/giffgaff-for-wear-os))
 
@@ -38,6 +35,8 @@ I'm **David Wheatley**, a 17-year-old student and web developer from West Sussex
 ----
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=davwheat&theme=darkhub&margin-w=8&margin-h=8&no-frame=true">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=davwheat&count_private=true&theme=dark&show_icons=true">
   <br/>
   <!-- I have NO CLUE why 'Smalltalk' is showing as ~90% of my code language... -->
