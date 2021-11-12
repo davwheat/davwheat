@@ -30,7 +30,7 @@ I'm **David Wheatley**, a 17-year-old student and web developer from West Sussex
 - 💬 Ask me about my previous projects
 - 📫 How to reach me: [hi@davwheat.dev](mailto:hi@davwheat.dev)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I started learning to code at about 11 after my brother started a degree in Computer Games Design. Now I know more than him. 😅
+- ⚡ Fun fact: I started learning to code at about 8 after my brother started a degree in Computer Games Design. Now I know more than him. 😅
 
 ----
 
