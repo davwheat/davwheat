@@ -22,15 +22,13 @@ I'm **David Wheatley**, an 18-year-old student and web developer from West Susse
 - [giffgaff rich presence](https://github.com/davwheat/giffgaff-rich-presence) - show your giffgaff SIM usage in Discord
 - [Microsoft Flight Simulator Livery Megapack Manager](https://github.com/MSFS-Mega-Pack/MSFS2020-livery-manager/)
 
-## Info
+## Get in touch
 
-- 🔭 I’m currently working on too many projects at once
-- 🌱 I’m currently learning Flarum front-end
-- 🤔 I’m looking for help with PHP (specifically Laravel related)
-- 💬 Ask me about my previous projects
-- 📫 How to reach me: [hi@davwheat.dev](mailto:hi@davwheat.dev)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I started learning to code at about 8 after my brother started a degree in Computer Games Design. Now I know more than him. 😅
+You can find me across the web.
+
+- Discord: MrJeeves#1234
+- Email: [david@davwheat.dev](mailto:david@davwheat.dev)
+- Flarum: https://discuss.flarum.org/u/davwheat
 
 ----
 
