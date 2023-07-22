@@ -1,12 +1,8 @@
 # Hi there 👋
 
-<!--
-**davwheat/davwheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm **David Wheatley**, a 19-year-old student and software developer from West Sussex, England. I work at Raileasy developing their TrainSplit Android app.
 
-I'm **David Wheatley**, a 19-year-old student and web developer from West Sussex, England. I'm a core developer at [@Flarum](https://github.com/flarum) and a member of [@FriendsOfFlarum](https://github.com/FriendsOfFlarum).
-
-**[Check out my personal site](https://davwheat.dev/)**
+[Check out my personal site](https://davwheat.dev/)
 
 ---
 
@@ -14,21 +10,13 @@ I'm **David Wheatley**, a 19-year-old student and web developer from West Sussex
 
 - [Sky+ box on the web](https://sky-epg.davwheat.dev/) ([repo](https://github.com/davwheat/sky-plus-web-simulator))
 - [UK railway dot matrix emulator](https://raildotmatrix.davwheat.dev/) ([repo](https://github.com/davwheat/uk-dot-matrix))
-- [giffgaff status](https://giffgaffstatus.com/) ([repo](https://github.com/davwheat/giffgaff-status))
-- [giffgaff app for Wear OS](https://play.google.com/store/apps/details?id=dev.davwheat.giffgaff.wearable) ([repo](https://github.com/davwheat/giffgaff-for-wear-os))
-
-### ... or just take a look at some cool repos
-
-- [giffgaff rich presence](https://github.com/davwheat/giffgaff-rich-presence) - show your giffgaff SIM usage in Discord
-- [Microsoft Flight Simulator Livery Megapack Manager](https://github.com/MSFS-Mega-Pack/MSFS2020-livery-manager/)
 
 ## Get in touch
 
 You can find me across the web.
 
-- Discord: MrJeeves#1234
+- Discord: @davwheat
 - Email: [david@davwheat.dev](mailto:david@davwheat.dev)
-- Flarum: https://discuss.flarum.org/u/davwheat
 
 ----
 
