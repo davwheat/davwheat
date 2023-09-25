@@ -21,8 +21,6 @@ You can find me across the web.
 ----
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davwheat&theme=darkhub&margin-w=8&margin-h=8&no-frame=true">
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=davwheat&count_private=true&theme=dark&show_icons=true">
   <br/>
   <!-- I have NO CLUE why 'Smalltalk' is showing as ~90% of my code language... -->
