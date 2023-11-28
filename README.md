@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **David Wheatley**, a 19-year-old student and software developer from West Sussex, England. I work at Raileasy developing their TrainSplit Android app.
+I'm **David Wheatley**, a 20-year-old student and software developer from West Sussex, England. I work at Raileasy developing their TrainSplit Android app.
 
 [Check out my personal site](https://davwheat.dev/)
 
