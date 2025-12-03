@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **David Wheatley**, a 21-year-old student and software developer from West Sussex, England. I work at Raileasy developing their TrainSplit Android app.
+I'm **David Wheatley**, a 22-year-old student and software developer from West Sussex, England. I work at Raileasy developing their TrainSplit Android app.
 
 [Check out my personal site](https://davwheat.dev/)
 
@@ -17,13 +17,3 @@ You can find me across the web.
 
 - Discord: @davwheat
 - Email: [david@davwheat.dev](mailto:david@davwheat.dev)
-
-----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davwheat&count_private=true&theme=dark&show_icons=true">
-  <br/>
-  <!-- I have NO CLUE why 'Smalltalk' is showing as ~90% of my code language... -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davwheat&layout=compact&hide=smalltalk&langs_count=6&theme=dark">
-</p>
-
